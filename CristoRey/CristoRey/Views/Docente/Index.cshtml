@@ -1,0 +1,147 @@
+﻿@model IEnumerable<CristoRey.Models.DOCENTE>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @using (Html.BeginForm())
+    {
+    <p>
+        Busqueda por DNI: @Html.TextBox("buscar")
+        <br />
+        <input type="submit" value="Buscar" />
+    </p>
+    }
+    <br />
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Distrito")
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.DOCENTE_FULLTIME.cod_doc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DOCENTE_PARTTIME.cod_doc)
+        </th>*@
+        @*<th>
+            @Html.Label("Codigo")
+        </th>*@
+        <th>
+            @Html.DisplayName("Nombre")
+        </th>
+        <th>
+            @Html.DisplayName("DNI")
+        </th>
+        <th>
+            @Html.DisplayName("Sexo")
+        </th>
+        <th>
+            @Html.DisplayName("Fecha Nacimiento")
+        </th>
+        <th>
+            @Html.DisplayName("Correo")
+        </th>
+        <th>
+            @Html.DisplayName("Telefono")
+        </th>
+        <th>
+            @Html.DisplayName("Direccion")
+        </th>
+        <th>
+            @Html.DisplayName("Tipo Docente")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DISTRITO.nom_dis)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.DOCENTE_FULLTIME.cod_doc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DOCENTE_PARTTIME.cod_doc)
+        </td>*@
+        @*@if (item.tip_doc == "P")
+        {
+            <td>
+                @Html.DisplayFor(modelItem => item.DOCENTE_PARTTIME.cod_doc)
+            </td>
+        }
+        else if (item.tip_doc == "F")
+        {
+            <td>
+                @Html.DisplayFor(modelItem => item.DOCENTE_FULLTIME.cod_doc)
+            </td>
+        }
+        else if (item.tip_doc == "")
+        {
+            <td> - </td>
+        }*@
+        <td>
+            @Html.DisplayFor(modelItem => item.nom_doc)
+            @Html.DisplayFor(modelItem => item.app_doc)
+            @Html.DisplayFor(modelItem => item.apm_doc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dni_doc)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.sex_doc)
+        </td>*@
+        @if (item.sex_doc == "M")
+        {
+            <td>
+                Masculino
+            </td>
+        }
+        else
+        {
+            <td>
+                Femenino
+            </td>
+        }
+        <td>
+            @Html.DisplayFor(modelItem => item.fna_doc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cor_doc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tel_doc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dir_doc)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.tip_doc)
+        </td>*@
+        @if (item.tip_doc == "P")
+        {
+            <td>
+                Part Time
+            </td>
+        }
+        else
+        {
+            <td>
+                Full Time
+            </td>
+        }
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.cod_doc }) |
+            @Html.ActionLink("Details", "Details", new { id=item.cod_doc }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.cod_doc })
+        </td>
+    </tr>
+}
+
+</table>

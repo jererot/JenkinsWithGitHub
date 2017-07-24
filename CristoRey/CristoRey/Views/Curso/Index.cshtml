@@ -1,0 +1,57 @@
+﻿@model IEnumerable<CristoRey.Models.CURSO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Area")
+        </th>
+        <th>
+            @Html.DisplayName("Grado")
+        </th>
+        <th>
+            @Html.DisplayName("Curso")
+        </th>
+        <th>
+            @Html.DisplayName("Hora Inicio")
+        </th>
+        <th>
+            @Html.DisplayName("Hora Fin")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AREA.des_are)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GRADO.des_gra)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nom_cur)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hin_cur)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hfi_cur)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.cod_cur }) |
+            @Html.ActionLink("Details", "Details", new { id=item.cod_cur }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.cod_cur })
+        </td>
+    </tr>
+}
+
+</table>

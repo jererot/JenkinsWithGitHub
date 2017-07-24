@@ -1,0 +1,82 @@
+﻿@model CristoRey.Models.EVALUACION
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>EVALUACION</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Curso")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CURSO.nom_cur)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Matricula")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MATRICULA.cod_mat)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Periodo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PERIODO.des_per)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nota 1 Practica")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.n1p_eva)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nota 2 Practica")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.n2p_eva)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nota 1 Evaluacion")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.n1e_eva)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nota 2 Evaluacion")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.n2e_eva)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Promedio Evaluacion")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pro_eva)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

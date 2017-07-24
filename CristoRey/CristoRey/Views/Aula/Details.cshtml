@@ -1,0 +1,42 @@
+﻿@model CristoRey.Models.AULA
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>AULA</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Pabellon")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PABELLON.cod_pab)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Descripcion Ubicacion")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.des_ubi)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nro Carpetas en el Aula")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nca_aul)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.cod_aula }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

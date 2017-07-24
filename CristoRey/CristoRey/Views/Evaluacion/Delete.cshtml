@@ -1,0 +1,88 @@
+﻿@model CristoRey.Models.EVALUACION
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>EVALUACION</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Curso")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CURSO.nom_cur)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Matricula")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MATRICULA.cod_mat)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Periodo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PERIODO.des_per)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nota 1 Practica")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.n1p_eva)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nota 2 Practica")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.n2p_eva)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nota 1 Evaluacion")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.n1e_eva)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nota 2 Evaluacion")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.n2e_eva)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Promedio Evaluacion")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pro_eva)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

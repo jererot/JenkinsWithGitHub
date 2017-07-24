@@ -1,0 +1,122 @@
+﻿@model CristoRey.Models.DOCENTE
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>DOCENTE</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DISTRITO.nom_dis)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DISTRITO.nom_dis)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DOCENTE_FULLTIME.cod_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DOCENTE_FULLTIME.cod_doc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DOCENTE_PARTTIME.cod_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DOCENTE_PARTTIME.cod_doc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nom_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nom_doc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.app_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.app_doc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.apm_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.apm_doc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dni_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dni_doc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sex_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sex_doc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fna_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fna_doc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cor_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cor_doc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tel_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tel_doc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dir_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dir_doc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tip_doc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tip_doc)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.cod_doc }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

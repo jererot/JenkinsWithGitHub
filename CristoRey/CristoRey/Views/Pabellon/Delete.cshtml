@@ -1,0 +1,48 @@
+﻿@model CristoRey.Models.PABELLON
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>PABELLON</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Nro. Pisos Pabellon")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nrp_pab)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nro. Aulas Pabellon")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nra_pab)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nro. Aulas por Piso")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nap_pab)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

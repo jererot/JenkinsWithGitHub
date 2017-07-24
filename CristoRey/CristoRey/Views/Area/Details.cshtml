@@ -1,0 +1,26 @@
+﻿@model CristoRey.Models.AREA
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>AREA</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Area")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.des_are)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.cod_are }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,42 @@
+﻿@model CristoRey.Models.PERIODO
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PERIODO</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Periodo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.des_per)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Fecha inicio")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fei_per)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Fecha fin")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fef_per)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.cod_per }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

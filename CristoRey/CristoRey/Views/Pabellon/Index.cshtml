@@ -1,0 +1,45 @@
+﻿@model IEnumerable<CristoRey.Models.PABELLON>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Nro. Pisos Pabellon")
+        </th>
+        <th>
+            @Html.DisplayName("Nro. Aulas Pabellon")
+        </th>
+        <th>
+            @Html.DisplayName("Nro. Aulas por Piso")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.nrp_pab)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nra_pab)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nap_pab)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.cod_pab }) |
+            @Html.ActionLink("Details", "Details", new { id=item.cod_pab }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.cod_pab })
+        </td>
+    </tr>
+}
+
+</table>

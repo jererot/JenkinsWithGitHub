@@ -1,0 +1,720 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\ApplicationInsights.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\csc.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\vbc.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\CristoRey.dll.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\CristoRey.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\CristoRey.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\EntityFramework.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.AI.Web.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.Helpers.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.Mvc.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.Optimization.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.Razor.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.WebPages.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\WebGrease.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\EntityFramework.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.AI.Web.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.Helpers.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.Mvc.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.Optimization.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.Razor.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.WebPages.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\obj\Debug\CristoRey.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\obj\Debug\CristoRey.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\C#\CristoRey\CristoRey\obj\Debug\CristoRey.pdb
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\ApplicationInsights.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\csc.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\vbc.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\CristoRey.dll.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\CristoRey.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\CristoRey.pdb
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.AI.Web.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\WebGrease.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.AI.Web.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.Optimization.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\obj\Debug\CristoRey.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\obj\Debug\CristoRey.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\CristoRey\CristoRey\obj\Debug\CristoRey.pdb
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\ApplicationInsights.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\csc.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\vbc.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\CristoRey.dll.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\CristoRey.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\CristoRey.pdb
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.AI.Web.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\WebGrease.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.AI.Web.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.Optimization.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\obj\Debug\CristoRey.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\obj\Debug\CristoRey.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\controladores\CristoRey\CristoRey\obj\Debug\CristoRey.pdb
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\ApplicationInsights.config
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\csc.exe
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\System.Collections.Immutable.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\System.Reflection.Metadata.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\vbc.exe
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe.config
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\CristoRey.dll.config
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\CristoRey.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\CristoRey.pdb
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Antlr3.Runtime.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\EntityFramework.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\EntityFramework.SqlServer.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.AI.Web.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.Web.Infrastructure.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Newtonsoft.Json.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.Helpers.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.Mvc.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.Optimization.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.Razor.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.WebPages.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\WebGrease.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\EntityFramework.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\EntityFramework.SqlServer.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.AI.Web.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.Helpers.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.Mvc.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.Optimization.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.Razor.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.WebPages.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Antlr3.Runtime.pdb
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\Newtonsoft.Json.xml
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\es\System.Web.Helpers.resources.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\es\System.Web.Mvc.resources.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\es\System.Web.Optimization.resources.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\es\System.Web.Razor.resources.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\es\System.Web.WebPages.resources.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\obj\Debug\CristoRey.csprojResolveAssemblyReference.cache
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\obj\Debug\CristoRey.dll
+D:\Universidad-JFSC\Ciclo VI\IS2\CristoRey\FINAL CTM !!!\CristoRey\CristoRey\obj\Debug\CristoRey.pdb
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CristoRey.dll.config
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CristoRey.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CristoRey.pdb
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\es\System.Web.Razor.resources.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\obj\Debug\CristoRey.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\obj\Debug\CristoRey.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\obj\Debug\CristoRey.pdb
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\Trabajo Oficial ISII\Final\CristoRey\CristoRey\bin\stdole.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\ApplicationInsights.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\csc.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\vbc.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CristoRey.dll.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CristoRey.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CristoRey.pdb
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.Shared.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.AI.Web.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\WebGrease.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\stdole.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.AI.Web.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.Optimization.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\obj\Debug\CristoRey.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\obj\Debug\CristoRey.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\bueno\CristoRey\CristoRey\obj\Debug\CristoRey.pdb
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\ApplicationInsights.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\csc.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\vbc.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CristoRey.dll.config
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CristoRey.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CristoRey.pdb
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.Shared.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.AI.Web.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\WebGrease.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\stdole.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.AI.Web.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.Optimization.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\obj\Debug\CristoRey.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\obj\Debug\CristoRey.dll
+C:\Users\Alex\Desktop\Trabajo Final S2\t\web\CristoRey\CristoRey\obj\Debug\CristoRey.pdb
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CristoRey.dll.config
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CristoRey.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CristoRey.pdb
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\WebGrease.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\stdole.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\es\System.Web.Razor.resources.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\obj\Debug\CristoRey.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\obj\Debug\CristoRey.dll
+C:\Users\Admin\Desktop\TRABAJO OFICIAL ISII ULTIMO\CristoRey\CristoRey\obj\Debug\CristoRey.pdb
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\ApplicationInsights.config
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CristoRey.dll.config
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CristoRey.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CristoRey.pdb
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.Shared.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\stdole.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\es\System.Web.Razor.resources.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\obj\Debug\CristoRey.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\obj\Debug\CristoRey.dll
+C:\Users\ASUS\Desktop\CristoRey\CristoRey\obj\Debug\CristoRey.pdb
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\ApplicationInsights.config
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\csc.exe
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\vbc.exe
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\CristoRey.dll.config
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\CristoRey.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\CristoRey.pdb
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Antlr3.Runtime.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\EntityFramework.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\EntityFramework.SqlServer.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.AI.Web.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Newtonsoft.Json.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.Helpers.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.Mvc.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.Optimization.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.Razor.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.WebPages.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\WebGrease.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\EntityFramework.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\EntityFramework.SqlServer.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.AI.Web.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.ApplicationInsights.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.Helpers.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.Mvc.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.Optimization.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.Razor.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.WebPages.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.WebPages.Deployment.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\System.Web.WebPages.Razor.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Antlr3.Runtime.pdb
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\Newtonsoft.Json.xml
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\es\System.Web.Helpers.resources.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\es\System.Web.Mvc.resources.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\es\System.Web.Optimization.resources.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\es\System.Web.Razor.resources.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\es\System.Web.WebPages.resources.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\obj\Debug\CristoRey.csprojResolveAssemblyReference.cache
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\obj\Debug\CristoRey.dll
+C:\Users\roy\Documents\GitHub\CRISTO_REY\CristoRey\CristoRey\obj\Debug\CristoRey.pdb

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<CristoRey.Models.PERIODO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Periodo")
+        </th>
+        <th>
+            @Html.DisplayName("Fecha inicio")
+        </th>
+        <th>
+            @Html.DisplayName("Fecha fin")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.des_per)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fei_per)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fef_per)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.cod_per }) |
+            @Html.ActionLink("Details", "Details", new { id=item.cod_per }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.cod_per })
+        </td>
+    </tr>
+}
+
+</table>

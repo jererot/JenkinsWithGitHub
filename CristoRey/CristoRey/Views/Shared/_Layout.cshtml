@@ -1,0 +1,224 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style type="text/css">
+        
+        .nav > li {
+            float: left;
+        }
+
+        .nav li a {
+            background: black;
+            color: white;
+            display: block;
+            border: 1px solid;
+            padding: 10px 12px;
+        }
+
+        .nav li a:hover {
+            background: #434343;
+        }
+
+        .nav li ul {
+            display: none;
+            position: absolute;
+            min-width: 140px;
+            list-style: none;
+        }
+
+        .nav li:hover > ul {
+            display: block;
+        }
+
+        .nav li ul li {
+            position: relative;
+            
+        }
+
+        .nav li ul li ul {
+            right: -125px;
+            top: 0;
+            
+        }
+
+
+
+    </style>
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("I.E.P. CRISTO REY", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            @*<div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Acerca de", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("Padres", "Index", "PadreFamilia")</li>
+                    <li>@Html.ActionLink("Alumnos", "Index", "Alumno")</li>
+                    <li>@Html.ActionLink("Matriculas", "Index", "Matricula")</li>
+                    <li>@Html.ActionLink("Docentes", "Index", "Docente")</li>
+                    <li>@Html.ActionLink("Cursos", "Index", "Curso")</li>
+                    <li>@Html.ActionLink("Periodos", "Index", "Periodo")</li>
+                    <li>@Html.ActionLink("Grados", "Index", "Grado")</li>
+                </ul>
+            </div>*@
+
+            <ul class="nav">
+                
+                <li>@Html.ActionLink("Padres de Familia", "Index", "PadreFamilia")</li>
+                <li>@Html.ActionLink("Alumnos", "Index", "Alumno")</li>
+                <li>@Html.ActionLink("Matriculas", "Index", "Matricula")</li>
+
+                <li><a target="_blank" href="@Url.Action("ReporteMatricula", "Reporte")">Reporte Matriculados</a>
+                    <ul>
+                        <li><a target="_blank" href="@Url.Action("ReportePrimaria", "Reporte")">Primaria</a>
+                            <ul>
+                                <li><a target="_blank" href="@Url.Action("Reporte1P", "Reporte")">Primer Grado</a>
+                                    <ul>
+                                        <li><a target="_blank" href="@Url.Action("Reporte1AP", "Reporte")">A</a></li>
+                                        <li><a target="_blank" href="@Url.Action("Reporte1BP", "Reporte")">B</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="@Url.Action("Reporte2P", "Reporte")">Segundo Grado</a>
+                                    <ul>
+                                        <li><a target="_blank" href="@Url.Action("Reporte2AP", "Reporte")">A</a></li>
+                                        <li><a target="_blank" href="@Url.Action("Reporte2BP", "Reporte")">B</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="@Url.Action("Reporte3P", "Reporte")">Tercer Grado</a>
+                                    <ul>
+                                        <li><a target="_blank" href="@Url.Action("Reporte3AP", "Reporte")">A</a></li>
+                                        <li><a target="_blank" href="@Url.Action("Reporte3BP", "Reporte")">B</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="@Url.Action("Reporte4P", "Reporte")">Cuarto Grado</a>
+                                    <ul>
+                                        <li><a target="_blank" href="@Url.Action("Reporte4AP", "Reporte")">A</a></li>
+                                        <li><a target="_blank" href="@Url.Action("Reporte4BP", "Reporte")">B</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="@Url.Action("Reporte5P", "Reporte")">Quinto Grado</a>
+                                    <ul>
+                                        <li><a target="_blank" href="@Url.Action("Reporte5AP", "Reporte")">A</a></li>
+                                        <li><a target="_blank" href="@Url.Action("Reporte5BP", "Reporte")">B</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="@Url.Action("Reporte6P", "Reporte")">Sexto Grado</a>
+                                    <ul>
+                                        <li><a target="_blank" href="@Url.Action("Reporte6AP", "Reporte")">A</a></li>
+                                        <li><a target="_blank" href="@Url.Action("Reporte6P", "Reporte")">B</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li><a target="_blank" href="@Url.Action("ReporteSecundaria", "Reporte")">Secundaria</a>
+                            <ul>
+                                <li>
+                                    <a target="_blank" href="@Url.Action("Reporte1S", "Reporte")">Primer Grado</a>
+                                    <ul>
+                                        <li><a target="_blank" href="@Url.Action("Reporte1AS", "Reporte")">A</a></li>
+                                        <li><a target="_blank" href="@Url.Action("Reporte1BS", "Reporte")">B</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="@Url.Action("Reporte2S", "Reporte")">Segundo Grado</a>
+                                    <ul>
+                                        <li><a target="_blank" href="@Url.Action("Reporte2AS", "Reporte")">A</a></li>
+                                        <li><a target="_blank" href="@Url.Action("Reporte2BS", "Reporte")">B</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="@Url.Action("Reporte3S", "Reporte")">Tercer Grado</a>
+                                    <ul>
+                                        <li><a target="_blank" href="@Url.Action("Reporte3AS", "Reporte")">A</a></li>
+                                        <li><a target="_blank" href="@Url.Action("Reporte3BS", "Reporte")">B</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="@Url.Action("Reporte4S", "Reporte")">Cuarto Grado</a>
+                                    <ul>
+                                        <li><a target="_blank" href="@Url.Action("Reporte4AS", "Reporte")">A</a></li>
+                                        <li><a target="_blank" href="@Url.Action("Reporte4BS", "Reporte")">B</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="@Url.Action("Reporte5S", "Reporte")">Quinto Grado</a>
+                                    <ul>
+                                        <li><a target="_blank" href="@Url.Action("Reporte5AS", "Reporte")">A</a></li>
+                                        <li><a target="_blank" href="@Url.Action("Reporte5BS", "Reporte")">B</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a target="_blank" href="@Url.Action("ProformaG", "Reporte")">Proformas</a>
+                    <ul>
+                        <li><a target="_blank" href="@Url.Action("ProformaP", "Reporte")">Proforma Primaria</a></li>
+                        <li><a target="_blank" href="@Url.Action("ProformaS", "Reporte")">Proformar Secundaria</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+
+
+
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - I.E.P CRISTO REY</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryUI")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

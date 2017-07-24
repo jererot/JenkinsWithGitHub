@@ -1,0 +1,37 @@
+﻿@model IEnumerable<CristoRey.Models.ALUMNO>
+
+@{
+    Layout = null;
+}
+
+
+<table id="table" border="1" class="table-bordered">
+    <tr>
+        <th>
+            Numero
+        </th>
+        <th>
+            @Html.DisplayName("Alumnos")
+        </th>
+    </tr>
+@{ 
+    int counter = 1;
+    foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @counter 
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nom_alum)
+                @Html.DisplayFor(modelItem => item.app_alum)
+                @Html.DisplayFor(modelItem => item.apm_alum)
+            </td>
+        </tr>
+        counter++;
+    }
+}
+
+</table>
+
+

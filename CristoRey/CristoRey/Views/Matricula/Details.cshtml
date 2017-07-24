@@ -1,0 +1,42 @@
+﻿@model CristoRey.Models.MATRICULA
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>MATRICULA</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Alumno")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ALUMNO.nom_alum)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Grado")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GRADO.des_gra)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Promedio Bimestral")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pro_mat)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.cod_mat }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

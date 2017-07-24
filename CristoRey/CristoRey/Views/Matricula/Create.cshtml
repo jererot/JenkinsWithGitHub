@@ -1,0 +1,137 @@
+﻿@model CristoRey.Models.MATRICULA
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    @Html.Raw(TempData["msg"])
+    <div class="form-horizontal">
+        <h4>MATRICULA</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.cod_alum, "Alumno", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*@Html.DropDownList("cod_alum", null, "-- Seleccione alumno --", htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.cod_alum, "", new { @class = "text-danger" })*@
+                @Html.TextBox("buscar", ViewData["busqueda"], new { id = "txtBuscar", @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Promedio", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.pro_mat, new { htmlAttributes = new { @class = "form-control", @Value = ViewData["prom"] } })
+                @Html.ValidationMessageFor(model => model.pro_mat, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.cod_gra, "Grado", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                
+                @Html.DropDownList("NIVEL", ViewBag.nivel as SelectList, "-- Seleccione nivel --", new { @class = "btn btn-default dropdown-toggle" })
+                @Html.DropDownList("GRADO", ViewBag.grado as SelectList, "Select", htmlAttributes: new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input id="crear" type="submit" value="Create" class="btn btn-default"  />
+            </div>
+        </div>
+
+        <div id="count" hidden="hidden"></div>
+
+        <center>
+            <div id="partial" style="width:500px">
+                @Html.Action("Index", "ListaParcial", new { grado = 0 })
+            </div>
+        </center>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+
+
+@section scripts{
+<link href="~/Content/jquery-ui-1.10.4.custom.min.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery-ui-1.10.4.custom.min.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+
+        $("#txtBuscar").autocomplete({
+            source: '@Url.Action("getAlumnos","Alumno")'
+        });
+
+
+        $("#NIVEL").change(function () {
+            $("#GRADO").empty();
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("getGrados", "Matricula")',
+                dataType: 'json',
+                data: { nivel: $("#NIVEL").val() },
+                success: function (grados) {
+                    $.each(grados, function (i, grados) {
+                        $("#GRADO").append('<option value="' + grados.Value + '">' +
+                        grados.Text + '</option>');
+
+                    });
+                },
+                error: function (grados) {
+                    alert('Error ' + grados.error);
+                }
+            });
+
+            $("#GRADO").empty();
+            $("#GRADO").append('<option value="' + "" + '">Select</option>');
+        });
+
+        $("#GRADO").change(function () {
+            $("#partial").load("@Url.Action("Index", "ListaParcial")" + "?grado=" + $(this).val());
+            $.ajax({
+                type: "GET",
+                data: { grado: $("#GRADO").val() },
+                url: "/ListaParcial/getAlumnos",
+                success: function (msg) {
+                    $.ajax({
+                        type: "GET",
+                        data: { id: $("#GRADO").val() },
+                        url: "/Matricula/Limite",
+                        success: function (msg) {
+                            if (msg)
+                            {
+                                document.getElementById('crear').disabled = false;
+                            }
+                            else
+                            {
+                                document.getElementById('crear').disabled = true;
+                                alert('No se pueden matricular más alumnos');
+                            }
+                        }
+                    });
+                },
+                error: function (msg) {
+                    alert('Error ');
+                }
+            });
+        });
+
+    });
+</script>
+}

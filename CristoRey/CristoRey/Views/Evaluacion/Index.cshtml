@@ -1,0 +1,75 @@
+﻿@model IEnumerable<CristoRey.Models.EVALUACION>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Curso")
+        </th>
+        <th>
+            @Html.DisplayName("Matricula")
+        </th>
+        <th>
+            @Html.DisplayName("Periodo")
+        </th>
+        <th>
+            @Html.DisplayName("Nota 1 Practica")
+        </th>
+        <th>
+            @Html.DisplayName("Nota 2 Practica")
+        </th>
+        <th>
+            @Html.DisplayName("Nota 1 Evaluacion")
+        </th>
+        <th>
+            @Html.DisplayName("Nota 2 Evaluacion")
+        </th>
+        <th>
+            @Html.DisplayName("Promedio Evaluacion")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CURSO.nom_cur)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MATRICULA.cod_mat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PERIODO.des_per)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.n1p_eva)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.n2p_eva)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.n1e_eva)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.n2e_eva)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.pro_eva)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

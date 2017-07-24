@@ -1,0 +1,100 @@
+﻿@model CristoRey.Models.PADRE_FAMILIA
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PADRE_FAMILIA</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Distrito")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DISTRITO.nom_dis)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nombre")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nom_paf)
+            @Html.DisplayFor(model => model.app_paf)
+            @Html.DisplayFor(model => model.apm_paf)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("DNI")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dni_paf)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Fecha Nacimiento")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fna_paf)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Sexo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sex_paf)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Correo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cor_paf)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Telefono")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tel_paf)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Direccion")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dir_paf)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Apoderado")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.apo_paf)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Telefono Apoderado")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tel_apo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.cod_paf }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,58 @@
+﻿@model CristoRey.Models.CURSO
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CURSO</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Area")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AREA.des_are)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Grado")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GRADO.des_gra)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Curso")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nom_cur)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Hora Inicio")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hin_cur)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Hora Fin")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hfi_cur)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.cod_cur }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

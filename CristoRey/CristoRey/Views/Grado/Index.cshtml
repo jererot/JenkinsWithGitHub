@@ -1,0 +1,51 @@
+﻿@model IEnumerable<CristoRey.Models.GRADO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Ubicacion")
+        </th>
+        <th>
+            @Html.DisplayName("Grado")
+        </th>
+        <th>
+            @Html.DisplayName("Nivel")
+        </th>
+        <th>
+            @Html.DisplayName("Seccion")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AULA.des_ubi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.des_gra)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.niv_gra)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.sec_gra)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.cod_gra }) |
+            @Html.ActionLink("Details", "Details", new { id=item.cod_gra }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.cod_gra })
+        </td>
+    </tr>
+}
+
+</table>

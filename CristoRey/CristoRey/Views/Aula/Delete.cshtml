@@ -1,0 +1,48 @@
+﻿@model CristoRey.Models.AULA
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>AULA</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Pabellon")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PABELLON.cod_pab)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Descripcion Ubicacion")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.des_ubi)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nro Carpetas en el Aula")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nca_aul)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
